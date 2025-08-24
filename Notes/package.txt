@@ -1,0 +1,9 @@
+{
+  "type": "module",  // Enables ES Modules syntax (import/export)
+  "dependencies": {
+    "express": "^5.1.0",     // Web framework for Node.js
+    "mongoose": "^8.18.0",    // MongoDB object modeling tool
+    "nanoid": "^5.1.5",      // Generates unique short IDs
+    "nodemon": "^3.1.10"     // Auto-restarts server during development
+  }
+}
